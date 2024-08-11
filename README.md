@@ -1,6 +1,6 @@
 # Deep Learning Specialization Programming Assignments
 
-This repository contains my solutions to the programming assignments for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by Coursera, taught by Andrew Ng.
+This repository contains my solutions to the **programming assignments** for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by Coursera, taught by Andrew Ng.
 
 ## Overview
 The specialization consists of five courses:
