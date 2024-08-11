@@ -8,4 +8,4 @@ Course 3 focuses on the best practices for structuring machine learning projects
 - **Transfer learning**
 
 ### Important Note
-This course does **not** include any programming assignments. Instead, it emphasizes theoretical knowledge and practical advice for efficiently managing and structuring machine learning projects.
+This course does **not** include any programming assignments.
